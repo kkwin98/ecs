@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ecs</string>
+
+    <string name="base_url">http://10.0.2.2:3000</string>
+
+    <string name="user_name1">김일동</string>
+    <string name="user_name1_enrNo">7102041068838</string>
+    <string name="user_name2">김이동</string>
+    <string name="user_name2_enrNo">7205051067747</string>
+
+    <string name="activity_list_title">전자증명서발급목록조회</string>
+    <string name="activity_list_sub_title">내 증명서</string>
+    <string name="activity_list_dateFrom_alt">시작일자</string>
+    <string name="activity_list_dateTo_alt">종료일자</string>
+    <string name="activity_list_srch">검 색</string>
+
+    <string name="activity_list_item_insttNm_alt">발급기관</string>
+    <string name="activity_list_item_docNm_alt">전자증명서</string>
+    <string name="activity_list_item_docNm_res">부등산등기사항증명서</string>
+    <string name="activity_list_item_docNm_crs">법인산등기사항증명서</string>
+    <string name="activity_list_item_issuDt_title">발급일자 : </string>
+    <string name="activity_list_item_validDt_title">유효기간 : </string>
+
+    <string name="ecdw_type_biz">1</string>
+    <string name="ecdw_type_enr">2</string>
+
+    <string name="activity_open_title">전자증명서 열람</string>
+
+
+
+</resources>
